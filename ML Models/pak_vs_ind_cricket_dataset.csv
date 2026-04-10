@@ -1,0 +1,21 @@
+player_id,player_name,team,role,runs_scored,balls_faced,fours,sixes,wickets_taken,overs_bowled,economy_rate,strike_rate,match_result,man_of_the_match
+1,Haris Rauf,Pakistan,Batsman,70,51,6,1,0,0.0,0.0,137.25,Win,No
+2,Shadab Khan,Pakistan,Batsman,91,32,1,4,0,0.0,0.0,284.38,Win,No
+3,Shadab Khan,Pakistan,All-Rounder,20,54,6,3,2,6.1,6.6,37.04,Win,No
+4,Shaheen Afridi,Pakistan,Batsman,37,55,10,3,0,0.0,0.0,67.27,Win,No
+5,Fakhar Zaman,Pakistan,Bowler,22,16,3,1,3,6.5,3.84,137.5,Win,No
+6,Shadab Khan,Pakistan,All-Rounder,3,42,2,3,4,8.3,2.28,7.14,Win,No
+7,Fakhar Zaman,Pakistan,Wicket-Keeper,13,66,0,0,0,3.1,3.75,19.7,Win,No
+8,Babar Azam,Pakistan,Bowler,28,12,4,4,4,6.8,5.31,233.33,Win,No
+9,Shadab Khan,Pakistan,Batsman,87,59,8,1,0,0.0,0.0,147.46,Win,No
+10,Shaheen Afridi,Pakistan,Bowler,20,8,5,4,1,7.6,4.43,250.0,Win,No
+11,Rashid Khan,India,Batsman,64,5,9,0,0,0.0,0.0,1280.0,Lose,No
+12,Rashid Khan,India,Batsman,13,8,4,1,0,0.0,0.0,162.5,Lose,No
+13,KL Rahul,India,Bowler,29,12,3,2,4,5.0,7.38,241.67,Lose,No
+14,KL Rahul,India,Bowler,23,5,7,3,1,3.1,7.74,460.0,Lose,No
+15,Hardik Pandya,India,All-Rounder,26,41,8,4,4,0.8,5.2,63.41,Lose,No
+16,Rashid Khan,India,Batsman,81,57,3,0,0,0.0,0.0,142.11,Lose,No
+17,Virat Kohli,India,Bowler,9,16,0,1,2,5.8,5.92,56.25,Lose,No
+18,Hardik Pandya,India,Bowler,30,2,10,1,2,0.7,6.85,1500.0,Lose,No
+19,Ravindra Jadeja,India,Bowler,8,6,9,1,0,7.7,5.9,133.33,Lose,No
+20,Virat Kohli,India,Bowler,12,3,3,1,1,7.8,2.27,400.0,Lose,No
